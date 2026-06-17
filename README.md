@@ -184,6 +184,6 @@ python analysis.py
 
 ## Author
 
-**Your Name**
+**Amilliey Pakhrin Tamang**
 
 Aspiring Data Analyst skilled in SQL, Python, PostgreSQL, Power BI, and Data Visualization.
