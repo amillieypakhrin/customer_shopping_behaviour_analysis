@@ -112,7 +112,6 @@ Created an interactive Power BI dashboard featuring:
 * KPI tracking
 * Customer behavior insights
 
-*(Add dashboard screenshots here)*
 
 ---
 
